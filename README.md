@@ -2,7 +2,7 @@
 
 The objective of this code is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below.
 
-/nPOSITIVE SCORE
+\nPOSITIVE SCORE
 NEGATIVE SCORE
 POLARITY SCORE
 SUBJECTIVITY SCORE
